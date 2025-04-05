@@ -55,4 +55,4 @@ In **./styles/globals.css**, replace everything with:
 npm run dev
 ```
 
-## It's me SIMON.`
+## It's me SIMON.
